@@ -1,3 +1,1 @@
-# My-First-Repo
-
-some sample text to fill inthe section
+To create a branch you need to go into GitHub
